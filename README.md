@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ PwnTillDawn Lab – Week 3 (Beginner) Write-up
 
 ## 📌 Objective
@@ -206,6 +205,3 @@ PwnTillDawnAcademyIsAwesome!!!
 The system was critically vulnerable due to improper access control and insecure file handling.
 
 Exploitation resulted in full system compromise with SYSTEM privileges and successful extraction of the flag.
-
-```
-```
